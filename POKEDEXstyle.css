@@ -1,0 +1,38 @@
+
+body{
+    
+}
+
+div#pokedex{
+    background-image: url("./pokedex.png");
+    background-repeat: no-repeat;
+    background-size:auto ;
+    margin: 0px;
+    width: 3384px;
+    height: 2458px;
+
+}
+div#display{
+
+    display: flex;
+    justify-content: center;
+    margin content: auto;
+    width: 1000px;
+    height: 650px;
+    position:relative;
+    left: 10%;
+    margin-top: 22%;
+}
+
+div#buscador{
+
+    display: flex;
+    justify-content: center;
+    margin content: auto;
+    width: 1000px;
+    height: 650px;
+    position:relative;
+    left: 80%;
+    margin-top: 10%;
+}
+
